@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajiibrahim01
-- 👀 I’m interested in technologies such as robotics and machine learning
+- 👀 I’m interested in robotics, machine learning, and website application
 - 🌱 I’m currently learning mysql,python, and go
 - 📫 How to reach me : ajiibrahim545@gmail.com
 
