@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajiibrahim01
+- 👋 Hi, I’m @ajiibrahim01, a 5th semester student from computer engineering major
 - 👀 I’m interested in robotics, machine learning, and website application
 - 🌱 I’m currently learning mysql,python, and go
 - 📫 How to reach me : ajiibrahim545@gmail.com
