@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  ### :man: About me :
+    ##:mortar_board: Graduated from Computer Engineering 
+    ##🌱currently learning software development
+  ### :hammer_and_wrench: Languages and Tools :
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/ibrahim-aji-25b29224a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
