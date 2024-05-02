@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" alt="VS Code">
     <img src="https://img.shields.io/badge/Arduino_IDE-323330?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino IDE">
     <img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=E44C30" alt="GIT">
-
+    <img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=FF6C37" alt="POSTMAN">
   
 <div align="center">
   <br>
