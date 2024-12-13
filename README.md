@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3 Badge">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript Badge">
     <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+    <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
     <br>
     <img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=green" alt="Node Badge">
      <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
