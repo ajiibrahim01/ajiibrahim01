@@ -45,15 +45,6 @@
     <a href="https://www.linkedin.com/in/ibrahim-aji-25b29224a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://www.instagram.com/ibrahim20.25aji/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/IbrahimAji">
-      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-    </a>
-    <a href="https://leetcode.com/u/ajiibrahim545/">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-    </a>
   </div>
 </div>
 
