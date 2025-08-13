@@ -2,7 +2,7 @@
 ---
 ### :man: About me :
 - :mortar_board: I am graduated from Computer Engineering 
-- :seedling: I am currently learning software development
+- :seedling: Currently building a market data analysis system for trading strategy insights.
 ### :hammer_and_wrench: Tech Languages and Tools Learning:
 - Software Development:
   <div>
